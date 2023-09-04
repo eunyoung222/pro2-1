@@ -29,8 +29,8 @@
 
     .btn {
         color: white;
-        background-color: #1D7151;
-        border-color: #1D7151;
+        background-color: #9ACD32;
+        border-color: #9ACD32;
     }
 
     .small {
